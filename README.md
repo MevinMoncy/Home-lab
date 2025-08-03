@@ -78,6 +78,3 @@ Setting up this home lab helped me understand much more than just how to run a V
 This was a hands-on way to explore operating systems, networking, and security principles. I’m planning to expand this lab to include more VMs, simulate attacks, and possibly build a small Active Directory environment in the future.
 
 
-
-Here's how I organized the project folder:
-
